@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1522006822 source:/home/sirkov_o/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/C++/2 РєСѓСЂСЃ/s2/Bazelinska/ind_1_2/main.cpp
+	<iostream>
+	"header.h"
+
+1522007154 /home/sirkov_o/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/C++/2 РєСѓСЂСЃ/s2/Bazelinska/ind_1_2/header.h
+	<iostream>
+	<string>
+	<algorithm>
+
+1522010422 source:c:\users\hnatiuk.i\desktop\ind_1_2\main.cpp
+	<iostream>
+	"header.h"
+
+1522010776 c:\users\hnatiuk.i\desktop\ind_1_2\header.h
+	<iostream>
+	<string>
+	<algorithm>
+
+1527574051 source:c:\documents and settings\user\Рабочий стол\ind_1_2\main.cpp
+	<iostream>
+	"header.h"
+
+1527574117 c:\documents and settings\user\Рабочий стол\ind_1_2\header.h
+	<iostream>
+	<string>
+	<algorithm>
+
